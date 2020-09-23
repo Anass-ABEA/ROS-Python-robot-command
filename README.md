@@ -31,6 +31,6 @@ rosrun code.py
 ```
 
 # Info : 
-[<img src="https://img.shields.io/badge/Video-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" target="_bank"/>](https://www.youtube.com/watch?v=wnazpzP2NwY)
+[<img src="https://img.shields.io/badge/Video-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" target="_bank"/>](https://www.youtube.com/watch?v=Mw4GQyKSAVA&ab_channel=AnassAITBENELARBI)
 [<img src="https://img.shields.io/badge/Channel-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" target="_bank"/>](https://www.youtube.com/channel/UCTK0fGhApaJlERojmqmn_YQ/)
 [<img src="https://img.shields.io/badge/Python%20Code-blue.svg?&style=for-the-badge&logo=Python&logoColor=yellow" target="_bank"/>](https://github.com/Anass-ABEA/ROS-Python-robot-command/blob/master/car_test/code.py)
